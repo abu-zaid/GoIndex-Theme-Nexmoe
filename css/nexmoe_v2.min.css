@@ -8,7 +8,7 @@
 .nexmoe-nav {
     height: 56px;
     width: 100%;
-    background-color: #fff;
+    background-color: #000;
     box-shadow: 0 2px 6px rgba(0,0,0,.04);
 }
 .navSize{
@@ -113,7 +113,7 @@ opacity: 1; /*结尾状态 透明度为1*/
     border-radius: 5px;
     -webkit-box-shadow: 0 0.2em 1em rgba(204, 204, 204, .3);
     box-shadow: 0 0.2em 1em rgba(204, 204, 204, .3);
-    background-color: #fff;
+    background-color: #000;
 }
 
 /*路径导航*/
@@ -131,7 +131,7 @@ opacity: 1; /*结尾状态 透明度为1*/
 .mdui-toolbar > a:last-child {
 	opacity: 1;
     background-color: #1e89f2;
-    color: #ffff;
+    color: #000;
 }
 
 .mdui-toolbar > a {
@@ -221,5 +221,5 @@ opacity: 1; /*结尾状态 透明度为1*/
 
 .nav-style > a:hover {
     background-color: #1e89f2;
-    color: #ffff;
+    color: #000;
 }
